@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="195" viewBox="0 0 420 195">
+<rect width="420" height="195" rx="6" fill="#ffffff"/>
+<rect x="0.5" y="0.5" width="419" height="194" rx="6" fill="none" stroke="#d0d7de"/>
+<text x="25" y="35" fill="#0969da" font-family="Segoe UI, Ubuntu, sans-serif" font-size="18" font-weight="600">Anton's GitHub Stats</text>
+<text x="25" y="70" fill="#1f2328" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14">Total Contributions:</text>
+<text x="280" y="70" fill="#1f2328" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="700">937</text>
+<text x="25" y="90" fill="#1f2328" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14">Private contrib.:</text>
+<text x="280" y="90" fill="#1f2328" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="700">923</text>
+<text x="25" y="110" fill="#1f2328" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14">Public repos:</text>
+<text x="280" y="110" fill="#1f2328" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="700">20</text>
+<text x="25" y="130" fill="#1f2328" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14">All owned repos:</text>
+<text x="280" y="130" fill="#1f2328" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="700">39</text>
+<text x="25" y="150" fill="#1f2328" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14">Stars:</text>
+<text x="280" y="150" fill="#1f2328" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="700">24</text>
+<text x="25" y="170" fill="#1f2328" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14">Followers:</text>
+<text x="280" y="170" fill="#1f2328" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="700">3</text>
+</svg>
