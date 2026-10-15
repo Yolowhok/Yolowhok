@@ -9,7 +9,7 @@ Backend · архитектура · system design
 [![Telegram](https://img.shields.io/badge/Telegram-@sheisangel-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/sheisangel)
 [![Email](https://img.shields.io/badge/Email-okey.exe%40yandex.ru-FF0000?style=flat-square&logo=maildotru&logoColor=white)](mailto:okey.exe@yandex.ru)
 [![Bulkhead CRM](https://img.shields.io/badge/Bulkhead_CRM-live-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://bulkheadcrm.ru)
-[![Резюме](https://img.shields.io/badge/CV-резюме-555555?style=flat-square&logo=github&logoColor=white)](https://github.com/Yolowhok/Golang-Backend-developer-CV/blob/main/Anton-Prilovsky-Go-Backend-Developer-CV.html)
+[![Резюме](https://img.shields.io/badge/CV-резюме-555555?style=flat-square&logo=github&logoColor=white)](https://yolowhok.github.io/Golang-Backend-developer-CV/Anton-Prilovsky-Go-Backend-Developer-CV.html)
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
 
